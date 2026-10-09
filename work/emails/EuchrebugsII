@@ -1,0 +1,86 @@
+Hi Rick, on 19-Aug-98 you wrote:
+
+
+I use Multiscan Productivity, at 656x480.
+
+> I developed it on a 688 x 482 screen, and everything should be visible at
+> that size or better.
+
+
+****** SHRINK CARDS AND CHECK WITH SMALLER OVERSCANS!!!!!
+
+> The game score should be in the upper right hand corner of the screen. I
+> have been considering making the necessary adjustments to ensure that
+> screen sizes smaller than that are shown correctly, but I'd rather not
+> make the cards any smaller than they are.
+
+
+>> 3.) A suggestion here - possibly the trump suit, the score, *and* the
+>> number of tricks(us vs. them) could all be displayed in the same area of
+>> the screen.... possibly along the bottom. That way all the information
+>> would be in one place.
+
+> That's a possibility, some sort of 'status bar'......hmm.....
+
+Yeah, instead of having the current trump suit at the top left, the score
+at the top right, and the trick count at the bottom left, all in one place
+would be easier to keep track of everything. Although keeping track of
+euchre isn't that hard, it'd just make it more enjoyable.
+
+>> 4.) Another suggestion - if possible, the font should be larger, and
+>> thicker, to make the game info easier to read. I do have a 17" monitor,
+>> but when I start getting tired that puny font just doesn't cut it.
+
+> I'm not overly pleased with the font either. Originally, I had it set for
+> the system default font, but making gadgets and such font scalable is a
+> horrendous pain!! The font I had been using was the XENHelvetica, which
+> looked quite nice. I'm not sure of the status of this font, however. If
+> it is pd, I will change the font in the program to that one.
+
+Barring a font change, even a box around the score, and trick count, with a
+different background color, to make it stand out, would be an improvement.
+
+
+**************   TRY A NEW WINDOW AT THE BOTTOM  *****************
+
+____________________________________________________________________
+                                                                   |
+                                                                   |
+use a difft bg color and text color here                           |
+                                                                   |
+show trump call, tricks taken, score, and who called               |
+                                                                   |
+___________________________________________________________________|
+
+
+>> 5.) And just one more suggestion, although I'm not sure if this one will
+>> make it better or not - it might make the game slightly easier to play,
+>> if the cards in the middle, as they're played, were all facing up for
+>> the game player to read them easier. It's still pretty good the way it
+>> is, but I *think* it may be a bit better this way.
+
+> I tried a few different layouts for this, and I like current one because
+> it is how you would see the cards if you were actually playing. I had a
+> few other people check out the various layouts, and the current one was
+> easily the most popular.
+
+Ok, I'll take your word for it.... like I said, I wasn't sure it'd make an
+improvement, but my thinking was that since there's only one player, it
+would be easier for the player to see the cards more plainly.
+
+Let me know if you make some improvements - I'd be interested to try them
+out.
+
+Bye for now. :)
+
+-- 
+Bob
+
+Email - bst@lightspeed.bc.ca (ISP)
+      - bob_stinson@panam.wimsey.com (BBS)
+
+Phone - (604)467-2817
+Fax   - same as above
+
+
+

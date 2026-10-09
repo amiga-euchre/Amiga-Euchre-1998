@@ -1,0 +1,56 @@
+From amiga@ihug.co.nz Sun, 23 Aug 1998 21:03:17 +1200
+X-SystemInfo: Earthlink: EMail
+X-ReplyTo-No: 372 (There are no more replies.)
+X-Message-No: 379 (database)
+From: Kenji Irie <amiga@ihug.co.nz>
+To: Rick Keller <kellr@earthlink.net>
+Subject: Re[2]: Euchre!
+Date: Sun, 23 Aug 98 04:03:00
+Message-ID: <yam7539.871.182030960@smtp.ihug.co.nz>
+Received: from smtp1.ihug.co.nz (tk1.ihug.co.nz [203.29.160.13])by stork.prod.itd.earthlink.net (8.8.7/8.8.5) with ESMTP id CAA19798for <kellr@earthlink.net>; Sun, 23 Aug 1998 02:31:50 -0700 (PDT)
+Received: from ihug.co.nz (p54-max12.chc.ihug.co.nz [209.79.136.182]) by smtp1.ihug.co.nz (8.8.8/8.8.8) with SMTP id VAA09508 for <kellr@earthlink.net>; Sun, 23 Aug 1998 21:31:46 +1200
+X-Mailer: YAM 2.0.0 Preview4 [020] - Amiga Mailer by Marcel Beck - http://www.yam.ch
+MIME-Version: 1.0
+X-MIME-Autoconverted: from quoted-printable to 8bit by stork.prod.itd.earthlink.net id CAA19798
+X-UIDL: 65811b377b73f693c79e87cd7b3684da
+
+>> Can you please make the font selectable, or at least make a 'Big/small'
+>> option - it is very hard to read!
+> I'm not happy with the font either, that will change in the future.
+
+it doesnt have to be selectable, just bigger *8)
+
+>> And getting REALLY adventurous - What about opening future loading of Soliton
+>> card sets? That would ROCK!
+>> OF course, Euchre! would have to be openeing on WB/256/16/24-bit screen modes
+>> to get the full effect. What do you think? Even opening on WB would be fine
+>> if you could load Soliton card sets (Im runnign in 16-bit).
+
+> Well, I am planning to use datatypes in the future for card images, it would just
+> be a matter of doing an implementation similar to the Soliton style. The only
+> concern I would have is if the cards from difft sets are not of a standard size, but
+> I'll try to muddle through it somehow.
+
+Hmmm, thats a point, I didnt think of that... 24-bit Euchre cards would rock *8). Hey,
+thats another idea for the future, having a selectable background image for the game. I
+can see myself playing with a nice image in the background...
+
+>> Anyway, great game.
+> Thanks again!
+
+No problem *8)
+
+Kenji.
+
+-- 
+-- 
+I know not with what weapons World War III will be fought, but World
+War IV will be fought with sticks and stones.
+-- Albert Einstein
+
+-- 
+Kenji Irie B.E.(hons) | Amiga 4000 CyberVision64/3D
+amiga@ihug.co.nz, kir13@elec.canterbury.ac.nz
+... and the giant shall be toppled ...
+
+
